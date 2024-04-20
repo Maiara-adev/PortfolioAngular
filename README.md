@@ -1,2 +1,2 @@
 # PortfolioAngular
-Curso de Angular.js
+Curso de Angular
